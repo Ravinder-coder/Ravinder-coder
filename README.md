@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravinder singh</h1>
 <h3 align="center">A passionate java full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Dependency-Track](https://dependencytrack.org)
-
 - 📫 How to reach me **ravinderfzk06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
