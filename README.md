@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ravinder singh</h1>
 <h3 align="center">A passionate java full-stack developer from India</h3>
 
+- 🔭 I’m currently working on [Dependency-Track](https://dependencytrack.org)
+
+- 📝 I regularly write articles on [https://medium.com/@ravinderfzk06](https://medium.com/@ravinderfzk06)
+
 - 📫 How to reach me **ravinderfzk06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/ravinderfzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ravinderfzk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravinderfzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravinderfzk/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22361304/ravinder-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22361304/ravinder-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ravinder_fzk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ravinder_fzk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
